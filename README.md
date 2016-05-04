@@ -1,3 +1,3 @@
 # Yusudd
 
-Soft skills content material, presentation...etc
+Soft skills, presentation, Professional dev...etc
