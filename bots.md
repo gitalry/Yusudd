@@ -3,7 +3,7 @@
 bot - Computer Definition. 
 (1) See robot. 
 (2) (roBOT) A search engine program that indexes the Web. See spider. 
-(3) (roBOT) A program used on the Internet that performs a repetitive function such as posting a message to blogs and newsgroups or searching for information.
+(3) (roBOT)<u> A program used on the Internet that performs a repetitive function<u> such as posting a message to blogs and newsgroups or searching for information.
 Typically, bots perform tasks that are both simple and structurally repetitive, at a much higher rate than would be possible for a human alone. The largest use of bots is in web spidering, in which an automated script fetches, analyzes and files information from web servers at many times the speed of a human.
 
  Bots are similar to worms and Trojans, but earn their unique name by performing a wide variety of automated tasks on behalf of their master (the cybercriminals) who are often safely located somewhere far across the Internet. Tasks that bots can perform run the gamut from sending spam to blasting Web sites off the Internet as part of a coordinated "denial-of-service" attack. Since a bot infected computer does the bidding of its master, many people refer to these victim machines as "zombies." 
